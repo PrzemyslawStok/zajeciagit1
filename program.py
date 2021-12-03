@@ -4,7 +4,6 @@ def funkcja1():
 def funkcja2():
 	print("funkcja2")
 
-
-
-funkcja1()
-funkcja2()
+for i in range(20):
+	funkcja1()
+	funkcja2()
